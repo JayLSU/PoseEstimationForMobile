@@ -19,4 +19,22 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#000"
-    tools:context="com.example.CameraActivity" />
+    tools:context="com.example.CameraActivity">
+
+    <ToggleButton
+        android:id="@+id/pause_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="87dp"
+        android:text="ToggleButton"
+        android:textOff="PAUSE"
+        android:textOn="RESUME" />
+
+    <ToggleButton
+        android:id="@+id/record_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ToggleButton" />
+</FrameLayout>

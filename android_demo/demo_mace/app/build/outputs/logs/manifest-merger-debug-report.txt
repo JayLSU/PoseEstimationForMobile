@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:18:1-55:12
+INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:18:1-55:12
+INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:18:1-55:12
+INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:18:1-55:12
+MERGED from [:tensorflow-lite:] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\tensorflow-lite.aar\68f2dee52927a0373da4bdfd2e37d555\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:design:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\ea694ce4cd323ab9299c4528c3d05929\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\d84a5d05656a71eba5a7580d2f2c4253\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0788ade30710932c5d488a8d566865b5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\96a1c938b73930265e8afcb68b6b9f7e\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\90a7e45e2dfed9d64bddba8c89d0d008\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\71af837aa928fb67c15963c83d40e4ef\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\1719e61b12b03f3f91e043c60ac5a5f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\7793acacccbe9261db8daa88392308a6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\a7ae2c63b12c1b2c29dce8456faca1d5\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\6b76721531216af6ffc71a7c5729ae35\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\e2eef8c9d34f9fe98c1d47291e5af979\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\194063563d04c8c785133fbef060656b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\53fb7bc5bdbe8677521db0bf04bc2769\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\eca5534a29edcd737b703c7f17e31689\AndroidManifest.xml:17:1-27:12
+MERGED from [:common-1.1.9:] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\common-1.1.9.aar\c12c1751d3cf8389f391440a736a17e1\AndroidManifest.xml:2:1-12:12
+MERGED from [:openCVLibrary341] D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\openCVLibrary341\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:macelibrary] D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\macelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:18:1-55:12
+INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:18:1-55:12
+INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:18:1-55:12
+	package
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:20:5-26
+		INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:18:1-55:12
+		INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:19:5-51
+	android:versionCode
+		INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:18:1-55:12
+		INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:22:5-64
+	android:name
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:22:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:24:5-59
+	android:name
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:24:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:25:5-69
+	android:name
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:25:19-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:26:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:28:5-70
+	android:name
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:28:22-68
+uses-sdk
+ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:29:5-43
+INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:29:5-43
+INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:29:5-43
+MERGED from [com.android.support:design:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\ea694ce4cd323ab9299c4528c3d05929\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\ea694ce4cd323ab9299c4528c3d05929\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\d84a5d05656a71eba5a7580d2f2c4253\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\d84a5d05656a71eba5a7580d2f2c4253\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0788ade30710932c5d488a8d566865b5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0788ade30710932c5d488a8d566865b5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\96a1c938b73930265e8afcb68b6b9f7e\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\96a1c938b73930265e8afcb68b6b9f7e\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\90a7e45e2dfed9d64bddba8c89d0d008\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\90a7e45e2dfed9d64bddba8c89d0d008\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\71af837aa928fb67c15963c83d40e4ef\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\71af837aa928fb67c15963c83d40e4ef\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\1719e61b12b03f3f91e043c60ac5a5f7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\1719e61b12b03f3f91e043c60ac5a5f7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\7793acacccbe9261db8daa88392308a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\7793acacccbe9261db8daa88392308a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\a7ae2c63b12c1b2c29dce8456faca1d5\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\a7ae2c63b12c1b2c29dce8456faca1d5\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\6b76721531216af6ffc71a7c5729ae35\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\6b76721531216af6ffc71a7c5729ae35\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\e2eef8c9d34f9fe98c1d47291e5af979\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\e2eef8c9d34f9fe98c1d47291e5af979\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\194063563d04c8c785133fbef060656b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\194063563d04c8c785133fbef060656b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\53fb7bc5bdbe8677521db0bf04bc2769\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\53fb7bc5bdbe8677521db0bf04bc2769\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\eca5534a29edcd737b703c7f17e31689\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\eca5534a29edcd737b703c7f17e31689\AndroidManifest.xml:21:5-23:58
+MERGED from [:common-1.1.9:] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\common-1.1.9.aar\c12c1751d3cf8389f391440a736a17e1\AndroidManifest.xml:8:5-10:41
+MERGED from [:common-1.1.9:] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\common-1.1.9.aar\c12c1751d3cf8389f391440a736a17e1\AndroidManifest.xml:8:5-10:41
+MERGED from [:openCVLibrary341] D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\openCVLibrary341\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary341] D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\openCVLibrary341\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:macelibrary] D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\macelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:macelibrary] D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\macelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:29:5-43
+INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:29:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\ea694ce4cd323ab9299c4528c3d05929\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:29:5-43
+		INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:29:15-41
+		INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:31:5-53:19
+MERGED from [:tensorflow-lite:] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\tensorflow-lite.aar\68f2dee52927a0373da4bdfd2e37d555\AndroidManifest.xml:4:5-5:19
+MERGED from [:tensorflow-lite:] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\tensorflow-lite.aar\68f2dee52927a0373da4bdfd2e37d555\AndroidManifest.xml:4:5-5:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\ea694ce4cd323ab9299c4528c3d05929\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\ea694ce4cd323ab9299c4528c3d05929\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\d84a5d05656a71eba5a7580d2f2c4253\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\d84a5d05656a71eba5a7580d2f2c4253\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0788ade30710932c5d488a8d566865b5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0788ade30710932c5d488a8d566865b5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\96a1c938b73930265e8afcb68b6b9f7e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\96a1c938b73930265e8afcb68b6b9f7e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\90a7e45e2dfed9d64bddba8c89d0d008\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\90a7e45e2dfed9d64bddba8c89d0d008\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\71af837aa928fb67c15963c83d40e4ef\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\71af837aa928fb67c15963c83d40e4ef\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\7793acacccbe9261db8daa88392308a6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\7793acacccbe9261db8daa88392308a6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\a7ae2c63b12c1b2c29dce8456faca1d5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\a7ae2c63b12c1b2c29dce8456faca1d5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\6b76721531216af6ffc71a7c5729ae35\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\6b76721531216af6ffc71a7c5729ae35\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\e2eef8c9d34f9fe98c1d47291e5af979\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\e2eef8c9d34f9fe98c1d47291e5af979\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\194063563d04c8c785133fbef060656b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\194063563d04c8c785133fbef060656b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\53fb7bc5bdbe8677521db0bf04bc2769\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\53fb7bc5bdbe8677521db0bf04bc2769\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\eca5534a29edcd737b703c7f17e31689\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\simon.boland\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\eca5534a29edcd737b703c7f17e31689\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:35:9-41
+	android:debuggable
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:32:9-34
+	tools:ignore
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:37:9-42
+	android:icon
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:34:9-45
+	android:allowBackup
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:33:9-35
+	android:theme
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:36:9-45
+activity#com.example.CameraActivity
+ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:39:9-47:20
+	android:screenOrientation
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:41:13-45
+	android:name
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:40:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:43:13-46:29
+action#android.intent.action.MAIN
+ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:44:17-68
+	android:name
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:45:17-76
+	android:name
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:45:27-74
+service#com.example.service.ScreenRecorderService
+ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:48:9-52:19
+	android:enabled
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:49:13-69
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\Install\TensorFlow\PoseEstimationForMobile\PoseEstimationForMobile\android_demo\demo_mace\app\src\main\AndroidManifest.xml:18:1-55:12 reason: org.tensorflow.lite has a targetSdkVersion < 4

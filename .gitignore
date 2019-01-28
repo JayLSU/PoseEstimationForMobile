@@ -1,3 +1,12 @@
 */.DS_Store
 training/src/__pycache__
 .idea/*
+./out/
+./build/
+./.idea/
+./.gradle/
+./gradle/
+./android_demo/demo_mace/app/build/*
+./android_demo/demo_mace/app/gradle/*
+./android_demo/demo_mace/macelibrary/gradle/*
+./android_demo/demo_tflite/gradle/*

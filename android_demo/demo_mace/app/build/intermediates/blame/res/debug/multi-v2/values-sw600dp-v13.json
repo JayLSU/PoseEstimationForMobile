@@ -1,0 +1,91 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Install\\TensorFlow\\PoseEstimationForMobile\\PoseEstimationForMobile\\android_demo\\demo_mace\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\simon.boland\\.gradle\\caches\\transforms-1\\files-1.1\\common-1.1.9.aar\\c12c1751d3cf8389f391440a736a17e1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,158",
+                        "endColumns": "52,49,49",
+                        "endOffsets": "103,153,203"
+                    },
+                    "to": {
+                        "startLines": "19,20,21",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1238,1291,1341",
+                        "endColumns": "52,49,49",
+                        "endOffsets": "1286,1336,1386"
+                    }
+                },
+                {
+                    "source": "D:\\Install\\TensorFlow\\PoseEstimationForMobile\\PoseEstimationForMobile\\android_demo\\demo_mace\\app\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "676,745",
+                        "endColumns": "67,67",
+                        "endOffsets": "739,808"
+                    },
+                    "to": {
+                        "startLines": "18,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "1170,1391",
+                        "endColumns": "67,67",
+                        "endOffsets": "1233,1454"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\simon.boland\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\d84a5d05656a71eba5a7580d2f2c4253\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\simon.boland\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\ea694ce4cd323ab9299c4528c3d05929\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,550,614,677",
+                        "endLines": "2,3,4,5,6,7,8,9,10,14",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "110,180,251,323,381,439,545,609,672,854"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,17,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "611,671,741,812,884,942,1000,1106,1459,1522",
+                        "endLines": "10,11,12,13,14,15,16,17,23,27",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "666,736,807,879,937,995,1101,1165,1517,1699"
+                    }
+                },
+                {
+                    "source": "D:\\Install\\TensorFlow\\PoseEstimationForMobile\\PoseEstimationForMobile\\android_demo\\demo_mace\\app\\src\\main\\res\\values-sw600dp\\template-styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "639",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "883"
+                    },
+                    "to": {
+                        "startLines": "28",
+                        "startColumns": "4",
+                        "startOffsets": "1704",
+                        "endLines": "32",
+                        "endColumns": "12",
+                        "endOffsets": "1944"
+                    }
+                }
+            ]
+        }
+    ]
+}

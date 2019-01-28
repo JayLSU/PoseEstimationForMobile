@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Install\\TensorFlow\\PoseEstimationForMobile\\PoseEstimationForMobile\\android_demo\\demo_mace\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\simon.boland\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\d84a5d05656a71eba5a7580d2f2c4253\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
